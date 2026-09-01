@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
