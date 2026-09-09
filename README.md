@@ -11,6 +11,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 ## Enumeration
 |  |
 | ------- |
