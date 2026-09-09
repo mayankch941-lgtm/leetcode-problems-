@@ -28,11 +28,13 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -67,9 +69,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
