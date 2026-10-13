@@ -50,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -92,4 +93,16 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
