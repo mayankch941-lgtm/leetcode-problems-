@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0035-search-insert-position) |
+| [0200-number-of-islands](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -118,4 +119,20 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
