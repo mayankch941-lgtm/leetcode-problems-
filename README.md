@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -62,6 +63,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -143,4 +145,8 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
