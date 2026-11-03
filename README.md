@@ -106,6 +106,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
