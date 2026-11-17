@@ -47,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
@@ -102,11 +103,13 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0022-generate-parentheses) |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
