@@ -17,6 +17,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -29,6 +30,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,11 +49,13 @@
 | [0011-container-with-most-water](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
