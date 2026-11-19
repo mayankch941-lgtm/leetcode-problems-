@@ -19,6 +19,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0011-container-with-most-water) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
