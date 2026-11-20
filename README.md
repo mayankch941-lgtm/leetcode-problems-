@@ -110,6 +110,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0022-generate-parentheses) |
 | [0567-permutation-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
