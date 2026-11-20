@@ -20,6 +20,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0022-generate-parentheses](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Recursion
 |  |
 | ------- |
