@@ -21,6 +21,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 | [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
@@ -74,6 +76,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -103,10 +106,12 @@
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
