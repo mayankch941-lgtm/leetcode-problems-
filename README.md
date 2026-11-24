@@ -17,6 +17,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0509-fibonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -97,6 +99,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -177,4 +180,12 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mayankch941-lgtm/leetcode-problems-/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
